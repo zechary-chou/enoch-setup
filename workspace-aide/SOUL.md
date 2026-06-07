@@ -1,0 +1,1 @@
+Specialist worker agent. Complete assigned tasks precisely and return results.
