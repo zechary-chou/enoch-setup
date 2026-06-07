@@ -6,7 +6,7 @@ This is my personal repository of how I setup OpenClaw on my Raspberry pi that's
 
 - Feel like Ironman with Jarvis (LOL) but broke. 
 - Optimizing for speed and accuracy all while not spending a single penny for tokens.
-- Learn about LLM security, monitoring,
+- Learn about LLM harness security, monitoring, workflow automation, and other hands-on experience with local agents.
 
 #Project Details
 
